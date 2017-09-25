@@ -19,4 +19,4 @@ For a black pixel in the right places of shares, we put different bricks in rand
 ![alt text](http://www.deltami.edu.pl/temat/matematyka/zastosowania/2012/06/30/jas1_thumb_350px.png)
 ![alt text](http://www.deltami.edu.pl/temat/matematyka/zastosowania/2012/06/30/jas2_thumb_350px.png)
 
-Put two above pictures on each other and look what was encoded.
+Put two above pictures on each other and look what was encrytpted
