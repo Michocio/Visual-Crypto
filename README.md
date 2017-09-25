@@ -20,3 +20,6 @@ For a black pixel in the right places of shares, we put different bricks in rand
 ![alt text](http://www.deltami.edu.pl/temat/matematyka/zastosowania/2012/06/30/jas2_thumb_350px.png)
 
 Put two above pictures on each other and look what was encrypted
+
+<h1> Usage </h1>
+Choose file you want to encrypt, after work is done, splitted images will be save in current location.
