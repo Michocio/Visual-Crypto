@@ -22,4 +22,4 @@ For a black pixel in the right places of shares, we put different bricks in rand
 Put two above pictures on each other and look what was encrypted
 
 <h1> Usage </h1>
-Choose file you want to encrypt, after work is done, splitted images will be save in current location.
+Choose file you want to encrypt, after work is done, splitted images will be saved in current location.
